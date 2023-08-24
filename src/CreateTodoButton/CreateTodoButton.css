@@ -1,0 +1,15 @@
+.CreateTodoButton{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: rgba(150, 201, 228, 0.991);
+    box-shadow: 5px 3px rgba(150, 201, 228, 0.991);
+    outline: 0px;
+    background-color: none;
+}
+
+.close{
+    color: rgba(150, 201, 228, 0.991);
+    height: 20px;
+    width: 20px;
+}

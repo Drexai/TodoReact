@@ -1,0 +1,42 @@
+div form{
+    width: 80%;
+    max-width: 500px;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+     background-image: linear-gradient(180deg, #A9C9FF 0%, rgb(255, 187, 236) 100%);
+}
+
+
+div form textarea {
+    border-radius: 5px;
+    border-color: rgba(150, 201, 228, 0.991);
+    box-shadow: 5px 3px rgba(150, 201, 228, 0.991);
+    min-height: 70px;
+    min-width: 200px;
+    outline: none;
+    font-size: 18px;
+    text-align: center;
+}
+
+.buttonContainer{
+    width: 50%;
+    min-width: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+}
+
+.addButton{
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+    border-color: rgba(150, 201, 228, 0.991);
+    box-shadow: 5px 3px rgba(150, 201, 228, 0.991);
+    outline: 0px;
+    background-color: none;
+}

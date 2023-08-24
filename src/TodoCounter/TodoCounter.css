@@ -1,0 +1,12 @@
+.TodoCounter{
+    font-size: 24px;
+    text-align:center;
+    background: -webkit-linear-gradient(0deg, #efbf56 35%, rgba(95, 102, 233, 0.99) 50%, rgb(247, 192, 73) 60%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+
+.TodoCounterLoading{
+    opacity: 25%;
+}

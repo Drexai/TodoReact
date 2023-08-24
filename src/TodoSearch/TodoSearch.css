@@ -1,0 +1,13 @@
+.TodoSearch{
+    border-radius: 5px;
+    border-color: rgba(242, 181, 221, 0.905);
+    box-shadow: 5px 3px rgba(242, 181, 221, 0.905);
+    outline: 0px;
+    text-align: center;
+}
+
+.todosearch:disabled{
+    opacity: 25%;
+}
+
+
